@@ -849,3 +849,8 @@ section #title .credits.right {
     display: none;
   }
 }
+
+.profil-foto {
+ float: right;
+ margin-left: 20px;
+}
